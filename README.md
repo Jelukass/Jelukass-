@@ -1,2 +1,2 @@
 # Jelukass-
-Um simples portfólio
+Site Feito em html5, css e javascript Sem uso de frameworks
